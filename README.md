@@ -13,26 +13,26 @@ The objective of this project is to analyze and understand the restaurant indust
 
 
 ## Conclusion
-* In this project, we implemented a range of data preprocessing techniques to improve the quality of our textual dataset, making it suitable for machine learning applications.
+In this project, we implemented a range of data preprocessing techniques to improve the quality of our textual dataset, making it suitable for machine learning applications.
 
-Optimized Clustering: We refined the K-means clustering process by selecting the optimal number of clusters (K=6), which enhanced the Silhouette Score and indicated better cluster separation.
+* Optimized Clustering: We refined the K-means clustering process by selecting the optimal number of clusters (K=6), which enhanced the Silhouette Score and indicated better cluster separation.
 
-Topic Modeling: Using Latent Dirichlet Allocation (LDA), we identified key topics within the reviews, providing valuable insights into the prevalent themes.
+* Topic Modeling: Using Latent Dirichlet Allocation (LDA), we identified key topics within the reviews, providing valuable insights into the prevalent themes.
 
-Model Performance: Supervised models, such as Logistic Regression and XGBoost, showed significant improvements in key evaluation metrics following hyperparameter tuning.
+* Model Performance: Supervised models, such as Logistic Regression and XGBoost, showed significant improvements in key evaluation metrics following hyperparameter tuning.
 
-Improved Precision: We achieved high precision, crucial for accurately predicting positive sentiment in sentiment analysis, which is vital for businesses interpreting customer feedback.
+* Improved Precision: We achieved high precision, crucial for accurately predicting positive sentiment in sentiment analysis, which is vital for businesses interpreting customer feedback.
 
-Enhanced Recall: Our models demonstrated high recall, ensuring effective capture of positive instances, which is essential for applications that must not overlook positive cases.
+* Enhanced Recall: Our models demonstrated high recall, ensuring effective capture of positive instances, which is essential for applications that must not overlook positive cases.
 
-Balanced F1-Score: We attained a balanced F1-score, offering a good trade-off between precision and recall, beneficial for applications requiring a balance between accuracy and coverage.
+* Balanced F1-Score: We attained a balanced F1-score, offering a good trade-off between precision and recall, beneficial for applications requiring a balance between accuracy and coverage.
 
-ROC AUC Significance: After tuning, the ROC AUC score improved, underscoring the model's effectiveness in distinguishing between positive and negative instances, which is key for classification accuracy.
+* ROC AUC Significance: After tuning, the ROC AUC score improved, underscoring the model's effectiveness in distinguishing between positive and negative instances, which is key for classification accuracy.
 
-Model Deployment: We discussed the importance of saving the best-performing model in a deployable format, preparing it for real-world applications.
+* Model Deployment: We discussed the importance of saving the best-performing model in a deployable format, preparing it for real-world applications.
 
-Future Prospects: We highlighted the potential for live server deployment and emphasized the importance of evaluating the model on unseen data to ensure real-world applicability.
+* Future Prospects: We highlighted the potential for live server deployment and emphasized the importance of evaluating the model on unseen data to ensure real-world applicability.
 
-Impact on Business: Our project has the potential to provide businesses with data-driven insights, thereby enhancing their decision-making capabilities.
+* Impact on Business: Our project has the potential to provide businesses with data-driven insights, thereby enhancing their decision-making capabilities.
 
-Data Transformation: From text preprocessing to model selection, our project demonstrates the transformative impact of data science, turning raw data into actionable knowledge.
+* Data Transformation: From text preprocessing to model selection, our project demonstrates the transformative impact of data science, turning raw data into actionable knowledge.
