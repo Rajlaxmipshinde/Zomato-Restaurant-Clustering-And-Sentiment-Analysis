@@ -13,7 +13,7 @@ The objective of this project is to analyze and understand the restaurant indust
 
 
 ## Conclusion
-In this project, we implemented a range of data preprocessing techniques to improve the quality of our textual dataset, making it suitable for machine learning applications.
+* In this project, we implemented a range of data preprocessing techniques to improve the quality of our textual dataset, making it suitable for machine learning applications.
 
 Optimized Clustering: We refined the K-means clustering process by selecting the optimal number of clusters (K=6), which enhanced the Silhouette Score and indicated better cluster separation.
 
